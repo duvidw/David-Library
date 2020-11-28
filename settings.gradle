@@ -1,0 +1,3 @@
+include ':DavidLibrary'
+include ':app'
+rootProject.name = "DavidLibExample"
